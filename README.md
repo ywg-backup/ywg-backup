@@ -4,7 +4,7 @@
 
 <hr>
 
-<h1 align="center"> Rami Menai </h1>
+<h1 align="center"> ywg-backup </h1>
 
 <p align="center">
   Currently a <b> high school student </b>,
@@ -13,16 +13,12 @@
 </p>
 
 <p align="center">
-  <b><i align="center"> Thought : <q>We live our dreams or we dream our lives</q> </i></b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rmenai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmenai&theme=ayu-mirage&hide_langs_below=1" />
+  <a href="https://github.com/ywg-backup">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywg-backup&theme=ayu-mirage&hide_langs_below=1" />
   </a>
 
-  <a href="https://github.com/rmenai">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmenai&show_icons=true&theme=ayu-mirage&count_private=true" />
+  <a href="https://github.com/ywg-backup">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ywg-backup&show_icons=true&theme=ayu-mirage&count_private=true" />
   </a>
 </p>
 
